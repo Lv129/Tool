@@ -2,7 +2,7 @@
 ## 效果
 ![image](https://github.com/Lv129/Tool/assets/48917882/c6a7a032-944e-402d-86ef-6cbe7a674b55)
 
-视频详细：
+视频详细：https://b23.tv/OrKJKjQ
 
 ## 取码方式
 阴码 列行式 逆向输出（低位在前）<br/>
