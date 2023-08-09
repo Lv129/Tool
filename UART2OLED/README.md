@@ -1,7 +1,13 @@
 # UART2OLED
 ## 效果
-
 ![image](https://github.com/Lv129/Tool/assets/48917882/c6a7a032-944e-402d-86ef-6cbe7a674b55)
+
+视频详细：
+
+## 取码方式
+阴码 列行式 逆向输出（低位在前）<br/>
+![取吗方式](https://github.com/Lv129/Tool/assets/48917882/32994842-ef2d-4ba8-9d32-7a3bdceaa254)
+
 ## MCU/SOC
 发送0xA5 0xA5后发送1024字节OLED数据，再发送0x5A 0x5A
 参考
