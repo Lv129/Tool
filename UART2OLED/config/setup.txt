@@ -1,0 +1,15 @@
+[button1] name:  <1> send:  {btn1} + \r\n
+[button2] name:  <上> send:  {up} + \r\n
+[button3] name:  <3> send:  {btn3} + \r\n
+
+[button4] name:  <4> send:  {btn4} + \r\n
+[button5] name:  <确定> send:  {ok} + \r\n
+[button6] name:  <6> send:  {btn6} + \r\n
+
+[button7] name:  <7> send:  {btn7} + \r\n
+[button8] name:  <下> send:  {dw} + \r\n
+[button9] name:  <9> send:  {btn9} + \r\n
+
+[bar1] name:  <滑条1> send:  {bar1:} + value + \r\n
+[bar2] name:  <滑条2> send:  {bar2:} + value + \r\n
+[bar3] name:  <滑条3> send:  {bar3:} + value + \r\n
